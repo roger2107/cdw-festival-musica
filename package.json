@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto con GULP SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roger2107/cdw-festival-musica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Rogelio Olivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roger2107/cdw-festival-musica/issues"
+  },
+  "homepage": "https://github.com/roger2107/cdw-festival-musica#readme"
+}
