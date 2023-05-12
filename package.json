@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/roger2107/cdw-festival-musica/issues"
   },
-  "homepage": "https://github.com/roger2107/cdw-festival-musica#readme"
+  "homepage": "https://github.com/roger2107/cdw-festival-musica#readme",
+  "devDependencies": {
+    "sass": "^1.62.1"
+  }
 }
